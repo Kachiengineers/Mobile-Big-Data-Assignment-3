@@ -500,4 +500,3 @@ The substitution of `claude-sonnet-4-20250514-v1:0` for `gpt-4o-mini-2024-07-18`
 - Knight, S., Woodward, K., & Lancaster, G. L. J. (2017). Violent versus nonviolent actors: An empirical study of different types of extremism. *Journal of Threat Assessment and Management, 4*(4), 230–248. https://doi.org/10.1037/tam0000086
 - Ismail, R., Jamir Singh, M. K., & Mujani, W. K. (2025). Belief and behaviour as dimensions of extremism: A conceptual framework. *Humanities & Social Sciences Communications, 12*, Article s41599-025-05685-z. https://doi.org/10.1038/s41599-025-05685-z
 - Berhoum, A., et al. (2023). Detecting and classifying online extremism. *ACM Digital Library*. https://doi.org/10.1145/3575802
-- McCauley, C., & Moskalenko, S. (2014). Towards a profile of lone wolf terrorists: What moves an individual from radical opinion to radical action. *Terrorism and Political Violence, 26*, 69–85.
